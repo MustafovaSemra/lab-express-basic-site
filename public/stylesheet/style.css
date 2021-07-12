@@ -1,10 +1,7 @@
-.home {
-  background-color: red;
+body {
+  background-color: blanchedalmond;
 }
 
 .gallery .dog-img img {
   width: 300px;
-}
-.gallery {
-  background-color: blanchedalmond;
 }
